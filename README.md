@@ -48,3 +48,6 @@
 </body>
 </html># Nota-de-anime-
 Eu dou nota de anime 
+<div class="galeria">
+  <img src="foto1.png">
+</div>
